@@ -1,0 +1,1 @@
+this repo ie. the gta sim 2.5 was created by fennet(claude sonnet 4.6) and GLM 5 to run this first download the file copy its content and place in the console of devtools in your browser or you can download the wrapper.html with the jsfile and just open the html file in your browser
